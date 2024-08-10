@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nsitox/G6AEk/xzR36TKreVyd3py7rnDEeDEWfTsUgHF4qLK8osNy5A0awk/YT7eSmThlBm7cZu8JKj0ZNv7vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oukaa\\Desktop\\binary\\binary\\binary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oukaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\oukaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\oukaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\oukaa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
